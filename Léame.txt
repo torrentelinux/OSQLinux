@@ -1,7 +1,23 @@
 OSQLinux
 Biblioteca de clases en Java para la conectividad a base de datos alojadas en servidores con SQL.
+
 Lanzamiento inicial: Jueves 27 de Marzo de 2025.
 Edición: 1.3.2025 * serie SQLinux.
+Proyecto: OSQLinuxLib.
+Hospedaje: https://github.com/torrentelinux/OSQLinux
+IDE: Apache NetBeans para Linux.
+JDK admitidos:
+	· OpenJDK Runtime Environment 21.3 (build 16.0.1+9).
+	· OpenJDK Runtime Environment Zulu23.28+85-CA (build 23+37).
+
+Servidores SQL probados:
+	· Bitnami LappStack ver. 7.4.25-0, 64 bits.
+	· XAMPP for Linux 8.2.12-0, 64 bits.
+	· Laragon Full 6.0, 64 bits.
+
+JDBC admitidos:
+	· PostgreSQL
+	· MySQL
 
 _____________________________________________________________
 Copyright (c) 2025, Eugenio Martínez, https://t.me/octulioBiletan
