@@ -8,7 +8,10 @@ Hospedaje: https://github.com/torrentelinux/OSQLinux
 IDE: Apache NetBeans para Linux.
 JDK admitidos:
 	· OpenJDK Runtime Environment 21.3 (build 16.0.1+9).
+	· Java(TM) SE Runtime Environment (build 17.0.12+8-LTS-286)
+        · OpenJDK Runtime Environment (build 17.0.14+7-Ubuntu-124.04).
 	· OpenJDK Runtime Environment Zulu23.28+85-CA (build 23+37).
+        · OpenJDK Runtime Environment 23.0.2+7
 
 Servidores SQL probados:
 	· Bitnami LappStack ver. 7.4.25-0, 64 bits.
