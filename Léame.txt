@@ -8,7 +8,7 @@ Hospedaje: https://github.com/torrentelinux/OSQLinux
 Descarga: Debe descargar los archivos CBaseDeDatos-abril2025.tar.xz, OSQLinuxLib-abril2025.tar.xz y LIBME-abril2025.tar.xz
 Instala: Se sugiere que instale en Linux, manualmente, en el directorio /base/Proyecto/NetBeansLX/ y en Windows, en el directorio c:\base\Proyecto\NetBeans\
 Sistemas: Se admiten los sistemas operativos Linux (preferentemente) y Windows Server/Desktop.
-IDE: Apache NetBeans para Linux.
+IDE: Apache NetBeans para Linux y para Windows.
 JDK admitidos:
 	· OpenJDK Runtime Environment 21.3 (build 16.0.1+9).
 	· Java(TM) SE Runtime Environment (build 17.0.12+8-LTS-286)
