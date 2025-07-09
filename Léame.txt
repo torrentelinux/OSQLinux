@@ -28,6 +28,11 @@ JDBC admitidos:
 	· PostgreSQL
 	· MySQL
 
+El proyecto también puede ser descargado desde pCloud.
+Seleccione el paquete CBaseDeDatos-julio2025-completo.tar.xz y descomprima todo en el directorio raíz de su sistema Linux.
+Enlace:
+https://u.pcloud.link/publink/show?code=kZ4I1h7Z5TAxbJqo2i0JgaDaBWkvm5DOKvQ7#/filemanager?folder=27056337343
+
 _________________________________________________________________
 Copyright (c) 2025, Eugenio Martínez, https://t.me/octulioBiletan
 OSQLinux is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published
