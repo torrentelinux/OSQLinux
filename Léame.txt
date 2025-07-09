@@ -4,10 +4,10 @@ Biblioteca de clases en Java para la conectividad a base de datos alojadas en se
 "El 1º paso para hacer una integración entre Java, PHP y SQL".
 
 Lanzamiento inicial: Jueves 27 de Marzo de 2025.
-Edición: 1.3.2025 * serie SQLinux.
+Edición: 1.7.2025 * serie SQLinux.
 Proyecto: OSQLinuxLib.
 Hospedaje: https://github.com/torrentelinux/OSQLinux
-Descarga: Debe descargar los archivos CBaseDeDatos-abril2025.tar.xz, OSQLinuxLib-abril2025.tar.xz y LIBME-abril2025.tar.xz
+Descarga: Debe descargar los archivos CBaseDeDatos-Julio2025.tar.xz, OSQLinuxLib-julio2025.tar.xz y LIBME-julio2025.tar.xz
 Instala: Se sugiere que instale en Linux, manualmente, en el directorio /base/Proyecto/NetBeansLX/ y en Windows, en el directorio c:\base\Proyecto\NetBeans\
 Sistemas: Se admiten los sistemas operativos Linux (preferentemente) y Windows Server/Desktop.
 IDE: Apache NetBeans para Linux.
