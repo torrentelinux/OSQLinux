@@ -28,10 +28,12 @@ JDBC admitidos:
 	· PostgreSQL
 	· MySQL
 
-El proyecto también puede ser descargado desde pCloud.
-Seleccione el paquete CBaseDeDatos-julio2025-completo.tar.xz y descomprima todo en el directorio raíz de su sistema Linux.
-Enlace:
+Este proyecto también puede ser descargado desde pCloud.
+Vaya al siguiente enlace:
 https://u.pcloud.link/publink/show?code=kZ4I1h7Z5TAxbJqo2i0JgaDaBWkvm5DOKvQ7#/filemanager?folder=27056337343
+
+Y seleccione el paquete CBaseDeDatos-julio2025-completo.tar.xz y descomprima todo en el directorio raíz de su sistema Linux.
+Es aconsejable que cree la cuenta 'operador' y que sea miembro del grupo 'users'.
 
 _________________________________________________________________
 Copyright (c) 2025, Eugenio Martínez, https://t.me/octulioBiletan
